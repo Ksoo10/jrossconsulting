@@ -813,6 +813,6 @@ section#packages {
     color: var(--text-color);
   }
   section {
-    padding: 2rem 1rem;
+    padding: 2rem 2rem;
   }
 }
